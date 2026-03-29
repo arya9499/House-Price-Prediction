@@ -98,3 +98,6 @@ python linear_regression_gd.py
 ## 👨‍💻 Author
 
 Arya S
+
+<img width="2194" height="958" alt="image" src="https://github.com/user-attachments/assets/c6e47058-a21a-4300-9b73-aa415bc150f3" />
+
